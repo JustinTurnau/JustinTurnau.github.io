@@ -2,11 +2,9 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: Teaching Assistant and Research Assistant
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I'm currently the Teaching Assistant for a graduate-level course: Data Mining CSE 572. I had the opportunity to give a lecture on deep neural networks and the transformer architecture. I also work closely with multiple undergraduate students on research, teaching them everything I'm learning through research.
