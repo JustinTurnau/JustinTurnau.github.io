@@ -8,7 +8,7 @@
       "countryCode": "US",
       "region": "Arizona"
     },
-    "summary": "PhD student in Computer Science with research interests in multi-agent reinforcement learning and sim-to-real transfer for reinforcement learning. Experienced in research, teaching, and mentoring.",
+    "summary": "Current PhD Computer Science student at Arizona State University. Aspiring reinforcement learning expert and intermediate chess player.",
     "profiles": []
   },
   "work": [
@@ -61,6 +61,7 @@
       "location": "Cincinnati, OH",
       "studyType": "Bachelor of Science",
       "area": "Computer Science",
+      "startDate": "2019-08-01",
       "endDate": "2024-05-01",
       "score": "3.619",
       "courses": [
